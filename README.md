@@ -13,7 +13,7 @@ Using the combined files from the mapping step, alternative mapreduce creates a 
 ## Generated Plots
 
 ### Counts of Tweets with #coronavirus by Top 10 Countries
-<img src= src/#코로나바이러스_lang.png />
+<img src=#코로나바이러스_lang.png />
 
 ### Counts of Tweets with #coronavirus by Top 10 Languages
 
@@ -22,4 +22,4 @@ Using the combined files from the mapping step, alternative mapreduce creates a 
 ### Counts of Tweets with #코로나바이러 by Top 10 Languages
 
 ### Counts of the hashtags #flu, #doctor, #coronavirus, and #corona during 2020
-<img src= src/#coronavirus_lang.png />
+<img src=#coronavirus_lang.png />
