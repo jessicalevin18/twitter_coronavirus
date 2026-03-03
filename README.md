@@ -1,6 +1,6 @@
 # Coronavirus twitter analysis
 
-Developed a MapReduce procedure to analyze all geotagged tweets sent in 2020, about 1.1 billion tweets. Then, I examined how coronavirus related hashtags were used on social media across different languages and countries to provide insights on the frequency and spread of certain hashtags. 
+Developed a MapReduce procedure to analyze all geotagged tweets sent in 2020, about 1.1 billion tweets. Then, I examined how coronavirus related hashtags were used on twitter across different languages and countries to provide insights on the frequency and spread of social media discourse. 
 
 ## How it works 
 ### MapReduce
