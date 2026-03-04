@@ -9,6 +9,11 @@ First, the mapper outputs two datasets for each day of the year. One that contai
 ### Alternative MapReduce
 Using the combined files from the mapping step, alternative mapreduce creates a dataset organized by the number of each hashtags per day in 2020. Then the script uses matplotlib functions to plot the data. These visualizations display the count of a hashtag each day in 2020.
 
+Sample command used:
+```
+python alternative_reduce.py  --input_path outputs --output_path combined_hashtags.json  --hashtags "#flu" "#doctor" "#coronavirus" "#corona" --plot_output hashtag_plot.png
+```
+
 ## Generated Plots
 
 ### Counts of Tweets with #coronavirus by Top 10 Countries
